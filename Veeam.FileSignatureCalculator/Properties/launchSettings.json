@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Veeam.FileSignatureCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "-f C:\\Users\\PaGrom\\source\\repos\\Veeam.FileSignatureCalculator\\test.txt -b 1000000"
+    }
+  }
+}
